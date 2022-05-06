@@ -1,7 +1,3 @@
-Zet hier de arduino code
-
-[Licht sensor & Servo motor]
-
 #include <Servo.h>
 
 Servo myservo;  // Control
