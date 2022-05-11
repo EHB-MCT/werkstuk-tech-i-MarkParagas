@@ -22,8 +22,8 @@
 6. Heading towards headquarters of the Tekuni
 7. Enemy is unbeatable, but characters find flaw in the enemy
 8. Reveal truth, liberate countries, international hostility against TEKUNI
-! 9. AI is deactivated and the enemy is beaten. The Alliance claim victory !
-!! 10. Bring normal life again !!
+9. AI is deactivated and the enemy is beaten. The Alliance claim victory !
+10. Bring normal life again !!
 11. Live in peace with no dictatorship or god worshiper
 12. Promotion in Resistance, characters lead a life in peace
 13. People live freely and happily with no aftertoughts of being controlled by a fake God
